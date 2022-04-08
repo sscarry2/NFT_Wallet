@@ -1,0 +1,39 @@
+export default {
+  //COLORS
+  GRAY_COLOR: '#DEDEDE',
+  WHITE_COLOR: '#FFF',
+  PRIMARY_GREEN_COLOR: '#0eaa61',
+  // FONT SIZE
+  H1_FONT_SIZE: '3rem',
+  H2_FONT_SIZE: '2.5rem',
+  H3_FONT_SIZE: '2rem',
+  H4_FONT_SIZE: '1.5rem',
+  H5_FONT_SIZE: '1.125rem',
+  PARAGRAPH_SIZE: '1rem',
+  MEDIUM_PARAGRAPH_SIZE: '0.875rem',
+  SMALL_PARAGRAPH_SIZE: '0.75rem',
+  SMALLER_PARAGRAPH_SIZE: '0.625rem',
+  // SPACING
+  SPACING_2: '0.125rem',
+  SPACING_4: '0.25rem',
+  SPACING_6: '0.375rem',
+  SPACING_8: '.5rem',
+  SPACING_10: '.625rem',
+  SPACING_12: '.75rem',
+  SPACING_14: '.875rem',
+  SPACING_16: '1rem',
+  SPACING_18: '1.125rem',
+  SPACING_20: '1.25rem',
+  SPACING_22: '1.375rem',
+  SPACING_24: '1.5rem',
+  SPACING_32: '2rem',
+  //BORDER RADIUS
+  BORDER_RADIUS_2: '2px',
+  BORDER_RADIUS_4: '4px',
+  BORDER_RADIUS_6: '6px',
+  BORDER_RADIUS_8: '8px',
+  BORDER_RADIUS_10: '10px',
+  BORDER_RADIUS_18: '18px',
+  //ICON
+  ICON_SIZE_16: '16px',
+};
