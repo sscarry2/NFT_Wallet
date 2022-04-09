@@ -27,12 +27,14 @@ export default {
   SPACING_22: '1.375rem',
   SPACING_24: '1.5rem',
   SPACING_32: '2rem',
+  SPACING_50: '3.125rem',
   //BORDER RADIUS
   BORDER_RADIUS_2: '2px',
   BORDER_RADIUS_4: '4px',
   BORDER_RADIUS_6: '6px',
   BORDER_RADIUS_8: '8px',
   BORDER_RADIUS_10: '10px',
+  BORDER_RADIUS_12: '12px',
   BORDER_RADIUS_18: '18px',
   //ICON
   ICON_SIZE_16: '16px',
